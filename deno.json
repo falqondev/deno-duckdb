@@ -1,0 +1,6 @@
+{
+  "name": "@falqondev/duckdb",
+  "version": "0.2.1",
+  "exports": "./mod.ts",
+  "imports": {}
+}

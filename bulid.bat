@@ -1,0 +1,1 @@
+clang src/sql.c -O3 -shared -o bin/libduckdb.dll -lduckdb -L"./lib" -I"./include" -v

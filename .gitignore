@@ -1,0 +1,8 @@
+bin/
+.vscode/
+bun.lockb
+node_modules/
+package-lock.json
+package.json
+include/
+lib/
